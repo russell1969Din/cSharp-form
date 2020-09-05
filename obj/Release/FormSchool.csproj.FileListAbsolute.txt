@@ -1,0 +1,9 @@
+D:\___Visual Studio\FormSchool\bin\Release\FormSchool.exe.config
+D:\___Visual Studio\FormSchool\bin\Release\FormSchool.exe
+D:\___Visual Studio\FormSchool\bin\Release\FormSchool.pdb
+D:\___Visual Studio\FormSchool\obj\Release\FormSchool.formTest.resources
+D:\___Visual Studio\FormSchool\obj\Release\FormSchool.Properties.Resources.resources
+D:\___Visual Studio\FormSchool\obj\Release\FormSchool.csproj.GenerateResource.cache
+D:\___Visual Studio\FormSchool\obj\Release\FormSchool.csproj.CoreCompileInputs.cache
+D:\___Visual Studio\FormSchool\obj\Release\FormSchool.exe
+D:\___Visual Studio\FormSchool\obj\Release\FormSchool.pdb

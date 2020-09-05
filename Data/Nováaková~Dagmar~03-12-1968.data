@@ -1,0 +1,22 @@
+﻿inpName~Dagmar
+inpLastName~Nováaková
+inpStreet~Kloibučnícka
+inpRegNumber~562
+inpNumber~1023
+inpPSC~832 21
+inpCity~Bratislava I
+inpBirthDay~03-12-1968
+inpEMail~dagmar@dagmar.sk
+inpMobil~+421 904 123 456
+lstRegion~Západné Slovensko
+radioMan~False
+radioWoman~True
+checkCSharp~True
+checkJS~True
+checkPHP~False
+checkJAVA~True
+checkOther~False
+cmbSchool~Úplné stredné vzdelanie
+cmbPhotos~Dagmar
+pictPhotos~Dagmar.png
+

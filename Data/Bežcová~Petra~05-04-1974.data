@@ -1,0 +1,22 @@
+﻿inpName~Petra
+inpLastName~Bežcová
+inpStreet~Zeplínska
+inpRegNumber~2541
+inpNumber~22
+inpPSC~831 01
+inpCity~Žilina
+inpBirthDay~05-04-1974
+inpEMail~petra@petra.sk
+inpMobil~+421 9090 4544444
+lstRegion~Stredné Slovensko
+radioMan~False
+radioWoman~True
+checkCSharp~True
+checkJS~True
+checkPHP~False
+checkJAVA~True
+checkOther~False
+cmbSchool~Vysokoškolské vzdelanie
+cmbPhotos~Petra
+pictPhotos~Petra.gif
+

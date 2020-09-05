@@ -1,0 +1,22 @@
+﻿inpName~Monika
+inpLastName~Kovácsová
+inpStreet~Jeséniová
+inpRegNumber~221
+inpNumber~35
+inpPSC~951 53
+inpCity~Dunajská Streda
+inpBirthDay~01-05-1980
+inpEMail~monika@monika.sk
+inpMobil~+421 905 484 811
+lstRegion~Južné Slovensko
+radioMan~False
+radioWoman~True
+checkCSharp~False
+checkJS~False
+checkPHP~False
+checkJAVA~False
+checkOther~True
+cmbSchool~Stredné odborné vzdelanie
+cmbPhotos~Monika
+pictPhotos~Monika.jpg
+

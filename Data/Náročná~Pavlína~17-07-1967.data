@@ -1,0 +1,22 @@
+﻿inpName~Pavlína
+inpLastName~Náročná
+inpStreet~Belopotockého
+inpRegNumber~123
+inpNumber~96
+inpPSC~855 01
+inpCity~Bratislava
+inpBirthDay~17-07-1967
+inpEMail~pavla@avla.sk
+inpMobil~+421 904 556 12121
+lstRegion~Západné Slovensko
+radioMan~False
+radioWoman~True
+checkCSharp~False
+checkJS~True
+checkPHP~True
+checkJAVA~False
+checkOther~False
+cmbSchool~Vysokoškolské vzdelanie
+cmbPhotos~Pavlína
+pictPhotos~Pavlína.jpg
+

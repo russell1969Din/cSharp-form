@@ -1,0 +1,24 @@
+﻿inpCity~Limbach
+inpMobil~+421 904555555
+inpEMail~d@d.sk
+inpPSC~851 55
+inpBirthDay~15-02-1975
+cmbFromDir~Tyková Daniela, dát.narodenia: 15-02-1975
+inpNumber~55
+inpRegNumber~5555
+checkOther~False
+inpLastName~Tyková
+inpStreet~Limbach
+cmbPhotos~Danielka
+inpName~Daniela
+cmbSchool~Vysokoskolské vzdelanie
+checkJAVA~False
+checkPHP~True
+inpMessage~
+checkJS~False
+checkCSharp~True
+radioWoman~True
+radioMan~False
+lstRegion~Západné Slovensko
+pictPhotos~Danielka.png
+
